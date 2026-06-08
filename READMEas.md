@@ -1,2 +1,0 @@
-# PickledCourt
-Pickleball court tracker
